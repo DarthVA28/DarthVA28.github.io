@@ -21,9 +21,8 @@
 title: Viraj's Two Cents
 email: agasheviraj28@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there Netizen! Welcome to my blog. This is more of a technical counterpart of 
-  my original blog (https://twocentsbyviraj.blogspot.com/). I'll try to document my journey
-  as I explore the world of CS (and occasionally some math!). Explore, and have a great day!
+  Hi there Netizen! Welcome to the technical counterpart of my blog (https://twocentsbyviraj.blogspot.com/). 
+  Read on if you'd like to join me on my journey through the world of CS and Math!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
