@@ -25,7 +25,10 @@ short_bio: >-
     I am an aspiring researcher in the field of distributed systems. At the Loreley team at Inria Université de Lorraine, I work on designing decentralized algorithms to support performant collaboration over a network. For this, I work with Conflict-Free Replicated Datatypes (CRDTs). 
   </p>
   <p>
-    In the past, I have worked at Microsoft Research India on the problem of improving memory safety of C/C++ code by annotating it and translating it to memory safe languages such as Rust. I am currently pursuing an M2 (Master's) in the MPRI programme in Paris. I graduated from the Indian Institute of Technology, Delhi in 2024 with a B. Tech in Computer Science & Engineering with a specialization in software systems. 
+    In the past, I have worked at Microsoft Research India on the problem of improving memory safety of C/C++ code by annotating it and translating it to memory safe languages such as Rust. 
+  </p>
+  <p>
+  I am currently pursuing an M2 (Master's) in the MPRI programme in Paris. I graduated from the Indian Institute of Technology, Delhi in 2024 with a B. Tech in Computer Science & Engineering with a specialization in software systems. 
   </p>
 
 portrait_url: /assets/images/photos/display.jpg
