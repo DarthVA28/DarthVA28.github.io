@@ -1,18 +1,18 @@
-primary_name: "Your Name"
+primary_name: "Viraj Agashe"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Viraj Agashe"
 
 positions:
 - name: Title or Position
 - name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "agasheviraj28@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: bTUg71UAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: darthva28
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -30,32 +30,42 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/display.jpg
+# portrait_caption: >-
+  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Université Paris Cite
+  logo: /assets/images/badges/upclogo.jpg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    # Department of Electrical Engineering and Computer Science 
+    M2 - Master Parisien de Recherche en Informatique (MPRI) <br/>
+  date: Sep. 2025 - present
+- name: Indian Institute of Technology, Delhi
+  logo: /assets/images/badges/iitdlogo.jpg
+  position: B.Tech in Computer Science and Engineering
+  date: Nov. 2020 - Aug. 2024
 
-# experience:
-# - name: Peking University
+experience:
+- name: Inria Université de Lorraine
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Mar. 2026 - Aug. 2026
+
+- name: Microsoft Research
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Fellow
+  date: July. 2024 - Aug. 2025
+
+# - name: Inria 
 #   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
+#   position: Research Fellow
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
